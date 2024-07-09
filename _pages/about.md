@@ -5,13 +5,13 @@ permalink: /
 subtitle: <a href='http://www.ict.ac.cn/'>中国科学院计算技术研究所（Institute of Computing Technology, ICT）</a>北京市海淀区科学院南路6号（Kexueyuan South Road No.6, Haidian District, Beijing）
 
 profile:
-  align: right
+  align: left
   image: img_zyw.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: ture # crops the image to make it circular
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
