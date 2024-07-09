@@ -7,6 +7,7 @@ description:
 profile:
   align: left
   image: img_zyw.jpg
+  image_circular: false # crops the image to make it circular
   address: 
 
 news: true  # includes a list of news items
@@ -15,8 +16,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Associate Researcher(副研究员), Master's Supervisor(硕导), Institute of Computing Technology (中国科学院计算技术研究所)<br>
-Kexueyuan South Road No.6, Haidian District, Beijing, China<br>
-zhangyingwei [at] ict.ac.cn<br>
+Kexueyuan South Road No.6, Haidian District, Beijing, China(北京市海淀区科学院南路6号)<br>
+e-mail: zhangyingwei@ict.ac.cn<br>
 [Google scholar](https://scholar.google.com.sg/citations?user=7UEqgLcAAAAJ&hl=zh-CN)
 
 I am an Associate Researcher and Master's Supervisor at IResearch Center for Ubiquitous Computing Systems (CUbiCS), Institute of Computing Technology (ICT), Chinese Academy of Sciences, Beijing, China.
