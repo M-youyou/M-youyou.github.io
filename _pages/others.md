@@ -7,12 +7,18 @@ nav: true
 
 #### Interns at MSRA
 
-Current interns:
+Current Ph.D students:
 
-- 2024.05 -- present, Zhiquan Tan, PhD @ Tsinghua.
-- 2024.05 -- present, Shudong Liu, PhD @ U. Macao.
-- 2023.08 -- present, Qinlin Zhao, MSRA-USTC joint Ph.D student (co-mentored with Xing Xie).
-  - Outcomes during internship: [CompeteAI (ICML'24)](https://arxiv.org/abs/2310.17512), [PromptBench (JMLR'24)](https://arxiv.org/abs/2312.07910)
+- 2022.09 -- present, Shuo Ma (Supervisor is Yiqiang Chen)
+- 2022.09 -- present, Shuchao Song (Supervisor is Yiqiang Chen)
+- 2022.09 -- present, Weiwen Yang (Supervisor is Yiqiang Chen)
+- 2023.07 -- present, Jiayuan Gao (Supervisor is Yiqiang Chen)
+- 2023.09 -- present, Yuwei Dai (Supervisor is Yiqiang Chen)
+- 2023.07 -- present, Haopeng Sun (Supervisor is Yiqiang Chen)
+
+Current Master students:
+
+- 
 
 #### Collaborating students
 
