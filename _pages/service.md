@@ -3,6 +3,7 @@ layout: page
 title: Awards
 permalink: /service/
 nav: true
+nav_order: 6
 ---
 
 
