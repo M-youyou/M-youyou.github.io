@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   address: 
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
 
 Associate Researcher(副研究员), Master's Supervisor(硕导), Institute of Computing Technology (中国科学院计算技术研究所)<br>
