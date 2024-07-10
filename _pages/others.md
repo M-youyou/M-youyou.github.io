@@ -6,7 +6,7 @@ nav: true
 nav_order: 4
 ---
 
-**如有意向报考我，欢迎邮件（zhangyingwei@ict.ac.cn）我，我一定会回复。我脾气稳定，即便师生有矛盾，也会自己消化好再与你沟通。期待趁年轻，一道做些有意义的研究。**
+**如有意向报考我或来我们课题组实习，欢迎邮件（zhangyingwei@ict.ac.cn）我，我一定会回复。<!--我脾气稳定，即便师生有矛盾，也会自己消化好再与你沟通。-->期待趁年轻，一道做些有意义的研究。**
 
 #### Current Students
 
@@ -28,9 +28,15 @@ Current Master students:
 
 #### Graduated Students
 
-- 2021.10 -- 2023.09, Kang Wang, [IEEE IJCNN](https://ieeexplore.ieee.org/abstract/document/9892711), [IEEE TRSRE](https://ieeexplore.ieee.org/abstract/document/10175382)
+- 2021.10 -- 2023.06, Kang Wang, [IEEE IJCNN](https://ieeexplore.ieee.org/abstract/document/9892711), [IEEE TRSRE](https://ieeexplore.ieee.org/abstract/document/10175382)
+  - Achieve master's degree (2020.09 -- 2023.06) from [Qilu University of Technology](). Supervisors are Yiqiang Chen and Xingang Wang
+  - Pursuing Ph.D degree at [Beijing Institute of Technology]()
 - 2022.05 -- 2024.06, Shiyu Cheng, [BSPC]()
+  - Achieve master's degree (2020.09 -- 2023.06) from [Qilu University of Technology](). Supervisors are Yiqiang Chen and Xingang Wang
+  - Pursuing Ph.D degree at [Beijing Institute of Technology]()
 - 2022.09 -- 2024.06, Changru Guo, [IEEE UIC](https://ieeexplore.ieee.org/abstract/document/10449131), [IEEE IoT](https://ieeexplore.ieee.org/abstract/document/10475144)
+  - Achieve master's degree (2020.09 -- 2023.06) from [Qilu University of Technology](). Supervisors are Yiqiang Chen and Xingang Wang
+  - Pursuing Ph.D degree at [Beijing Institute of Technology]()
 
 <!-- #### Collaborators in Computer Sciences
 
