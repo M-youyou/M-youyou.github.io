@@ -24,4 +24,6 @@ I am an Associate Researcher and Master's Supervisor at IResearch Center for Ubi
 
 
 **Research interest:** (See this [page](https://ywzhang.ac.cn/research/) for more details)
-- BCI:
+- 脑机接口
+- 多模态时序信号分析
+- 计算医学
