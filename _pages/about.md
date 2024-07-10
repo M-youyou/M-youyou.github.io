@@ -6,7 +6,7 @@ description:
 
 profile:
   align: left
-  image: img_zyw.jpg
+  image: img_zyw2.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
