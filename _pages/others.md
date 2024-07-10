@@ -3,6 +3,7 @@ layout: page
 title: Students
 permalink: /students/
 nav: true
+nav_order: 4
 ---
 
 #### Current Students
