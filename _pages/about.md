@@ -22,7 +22,7 @@ e-mail: zhangyingwei@ict.ac.cn || [Google scholar](https://scholar.google.com.sg
 I am an Associate Researcher and Master's Supervisor at IResearch Center for Ubiquitous Computing Systems (CUbiCS), Institute of Computing Technology (ICT), Chinese Academy of Sciences, Beijing, China. My interest areas include EEG/EMG physiological signal analysis, multi-modality learning, and gesture/human activity recognition. I also got my PhD degree at ICT, under the guidance of Professor Yiqiang Chen.
 
 
-**Research interest:** (See this [page](https://ywzhang.ac.cn/research/) for more details)
+**Research interest:** (See this [page](https://ywzhang.cn/research/) for more details)
 - 脑机接口
 - 多模态时序信号分析
 - 计算医学
