@@ -29,7 +29,12 @@ Current Master students:
 - 2022.05 -- 2024.06, Shiyu Cheng
 - 2022.09 -- 2024.06, Changru Guo 
 
-#### collaborators in computer sciences
+#### Collaborators in Computer Sciences
 
 - Ziyu Jia, Institute of Automation, Chinese Academy of Sciences
+- Bingbing Jiang, Hangzhou Normal University
+
+#### Collaborators in Healthecare and other fields
+
+- Zeping Lv, 
 - 
