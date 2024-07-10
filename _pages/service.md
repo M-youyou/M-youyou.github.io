@@ -1,44 +1,10 @@
 ---
 layout: page
-title: Service
+title: Awards
 permalink: /service/
 nav: true
 ---
 
-#### Academic service
-
-- Journal editorship:
-  - Associate editor, IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
-  - Guest editor, ACM Transactions on Intelligence Systems and Technology (TIST)
-  - Associate editor, Journal of Computer Science and Technology (JCST) 
-- Conference organization:
-  - Area Chair:
-    - KDD 2025 (research track)
-    - ACML 2024
-    - NeurIPS 2024 (main track, dataset and benchmark track)
-    - KDD 2024 (research track)
-    - ACM Multimedia (MM) 2024
-    - NeurIPS 2023 (dataset and benchmark track)
-  - Senior PC:
-    - AAAI 2025, 2024, 2023
-    - IJCAI 2024, 2023
-  - IJCAI 2019 Publicity co-chair
-  - ICDM 2019 transfer learning session chair
-- Conference PC member / reviewer: 
-  - ML: ICLR (2024, 2023, 2022, 2021); NeurIPS (2023, 2022, 2021, 2020); ICML (2024, 2023, 2022, 2021, 2020)
-  - AI: AAAI (2022, 2021, 2020); IJCAI (2022)
-  - CV: CVPR (2024, 2023, 2022, 2021); ICCV (2023, 2021); ECCV (2022)
-  - DM: KDD (2021); WWW (2024, 2023, 2022, 2021); SDM (2023, 2022); WSDM (2023)
-  - HCI: UbiComp/IMWUT (2022, 2021, 2020, 2019); CHI (2021, 2019); IEEE VAST (2020)
-- Journal reviewer: 
-  - TPAMI, IJCV, AI Journal, TKDE, TMLR, TNNLS, TMM, TIP, ACM CSUR, ACM TIST, IEEE TBD etc.
-- Membership: 
-  - Member of IEEE, ACM, and CCF
-  - Member of CCF technical committee pervasive computing (TCPC)
-  - Member of human computer interaction (TCHCI)
-- Miscellaneous:
-  - Schwarzman College group capstone professional advisor, Tsinghua University, 2023-2024.
-  - Guest lecturer at Tsinghua University and Chinese Academy of Sciences.
 
 #### Awards
 
