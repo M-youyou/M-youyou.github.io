@@ -13,6 +13,7 @@ profile:
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+highlight: false
 ---
 
 Associate Researcher(副研究员), Master's Supervisor(硕导), Institute of Computing Technology (中国科学院计算技术研究所)<br>
