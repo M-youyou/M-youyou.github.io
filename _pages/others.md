@@ -11,7 +11,6 @@ nav_order: 4
 #### Current Students
 
 Current Ph.D students:
-
 - 2022.09 -- present, Shuo Ma (Supervisor is [Yiqiang Chen](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496596.html)), [ACM TIST](https://dl.acm.org/doi/full/10.1145/3625238) 
 - 2022.09 -- present, Shuchao Song (Supervisor is Yiqiang Chen), [CAD](https://www.jcad.cn/en/article/doi/10.3724/SP.J.1089..2024-00052), CHCI 2023最佳论文提名奖
 - 2022.09 -- present, Weiwen Yang (Supervisor is Yiqiang Chen), [IEEE UIC](https://ieeexplore.ieee.org/abstract/document/10448719)
@@ -20,7 +19,6 @@ Current Ph.D students:
 - 2023.07 -- present, Haopeng Sun (Supervisor is Yiqiang Chen)
 
 Current Master students:
-
 - 2022.09 -- present, Qiqi Zhang (supervisors are Yiqiang Chen and Yanhui Ding), [IEEE UIC](https://ieeexplore.ieee.org/abstract/document/10448964)
 - 2023.09 -- present, Shuang Wu (Supervisor is Yiqiang Chen), [IJCAI workshop]
 - 2024.09 -- present, Baoyu Zhang (Supervisor is Yingwei Zhang)
