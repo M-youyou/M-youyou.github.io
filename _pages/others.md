@@ -5,7 +5,7 @@ permalink: /students/
 nav: true
 ---
 
-#### Interns at MSRA
+#### Current Students
 
 Current Ph.D students:
 
@@ -18,17 +18,16 @@ Current Ph.D students:
 
 Current Master students:
 
-- 
+- 2022.09 -- present, Qiqi Zhang (supervisors are Yiqiang Chen and Yanhui Ding)
+- 2023.09 -- present, Shuang Wu (Supervisor is Yiqiang Chen)
+- 2024.09 -- present, Baoyu Zhang (Supervisor is Yingwei Zhang)
 
-#### Collaborating students
 
-- Ph.D students at ICT, CAS: 
-  - Xin Qin (Ubicomp, KDD, national scholarship). Now: assistant professor at ICT, CAS.
-  - Yuxin Zhang (TKDE * 2). Now: engineer at StateGrid.
-- Ph.D student at Institute of Acoustics, CAS: Han Zhu (ICASSP * 2, TASLP).
-- Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang (KDD'23).
-- Ph.D student at University of Tokyo: Yivan Zhang, Wei Wang.
-- Ph.D student at Geogia Tech: Yiqiao Jin.
+#### Graduated Students
+
+- 2021.10 -- 2023.09, Kang Wang
+- 2022.05 -- 2024.06, Shiyu Cheng
+- 2022.09 -- 2024.06, Changru Guo 
 
 #### collaborators in computer sciences
 
