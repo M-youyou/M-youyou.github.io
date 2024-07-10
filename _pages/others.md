@@ -28,15 +28,15 @@ Current Master students:
 
 #### Graduated Students
 
-- 2021.10 -- 2023.06, Kang Wang, [IEEE IJCNN](https://ieeexplore.ieee.org/abstract/document/9892711), [IEEE TRSRE](https://ieeexplore.ieee.org/abstract/document/10175382)
+- **2021.10 -- 2023.06, Kang Wang, [IEEE IJCNN](https://ieeexplore.ieee.org/abstract/document/9892711), [IEEE TRSRE](https://ieeexplore.ieee.org/abstract/document/10175382)**
   - Achieve master's degree (2020.09 -- 2023.06) from [Qilu University of Technology](https://www.qlu.edu.cn/). His supervisors are [Yiqiang Chen](http://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496596.html) and [Xingang Wang](http://teacher.qlu.edu.cn/xxxy/wxg/main.htm).
-  - Now, he is pursuing Ph.D degree at [Beijing Institute of Technology](https://www.bit.edu.cn/) with the guidance of [Fa Zhang](https://smt.bit.edu.cn/szdw/jsml/bssds/6de6308941ca4ed0bfb252e52087598a.htm)
-- 2022.05 -- 2024.06, Shiyu Cheng, [BSPC]()
+  - Now, he is pursuing Ph.D degree at [Beijing Institute of Technology](https://www.bit.edu.cn/) with the guidance of [Fa Zhang](https://smt.bit.edu.cn/szdw/jsml/bssds/6de6308941ca4ed0bfb252e52087598a.htm).
+- **2022.05 -- 2024.06, Shiyu Cheng, [BSPC]()**
   - Achieve master's degree (2021.09 -- 2024.06) from [China University of Geosciences](https://www.cugb.edu.cn/). His supervisor is [Jianhe Guan](https://www.x-mol.com/university/faculty/206980).
   - Now, he works at Tencent.
-- 2022.09 -- 2024.06, Changru Guo, [IEEE UIC](https://ieeexplore.ieee.org/abstract/document/10449131), [IEEE IoT](https://ieeexplore.ieee.org/abstract/document/10475144)
+- **2022.09 -- 2024.06, Changru Guo, [IEEE UIC](https://ieeexplore.ieee.org/abstract/document/10449131), [IEEE IoT](https://ieeexplore.ieee.org/abstract/document/10475144)**
   - Achieve master's degree (2020.09 -- 2023.06) from [Lanzhou University](https://www.lzu.edu.cn/). His supervisor is [Zhong Wang](https://xxxy.lzu.edu.cn/shiziduiwu/jiaoshiduiwu/fujiaoshou/2020/0920/132708.html).
-  - Pursuing Ph.D degree at [Tianjin University]() with the guidance of [Shuang Liu](https://amt.tju.edu.cn/portal/teachers/getperson/id/24/sId/3/bId/2.html)
+  - Pursuing Ph.D degree at [Tianjin University]() with the guidance of [Shuang Liu](https://amt.tju.edu.cn/portal/teachers/getperson/id/24/sId/3/bId/2.html).
 
 <!-- #### Collaborators in Computer Sciences
 
