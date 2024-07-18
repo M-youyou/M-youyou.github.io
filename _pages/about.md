@@ -23,6 +23,6 @@ I am an Associate Researcher and Master's Supervisor at IResearch Center for Ubi
 
 
 **Research interest:** (See this [page](https://ywzhang.cn/research/) for more details)
-- Brain-Computer Interface (脑机接口): 
-- Multi-Modality Signal Analysis (多模态时序信号分析): 
-- Computing Medicine (计算医学): 
+- Brain-Computer Interface (脑机接口): 关注基于EEG、fNIRS数据实现睡眠分期、认知评估过程中的交互范式构建、数据分析问题。
+- Multi-Modality Data Analysis (多模态时序数据分析): 关注多模态数据协同、大小模型协同和多模态因果关联。
+- Computing Medicine (计算医学): 主要关注医疗场景下智能模型构建面临的数据分布漂移问题。
